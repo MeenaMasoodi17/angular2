@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-The `npm start` command first compiles the application, 
+The `npm start` command first compiles application, 
 then simultaneously re-compiles and runs the `lite-server`.
 Both the compiler and the server watch for file changes.
 
